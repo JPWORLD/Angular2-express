@@ -1,0 +1,14 @@
+{
+    "name": "Angular2-express",
+    "version": "1.0.0",
+    "description": "for test case only",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author":"jprakash4",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.13.3",
+        "express": "^4.13.3"
+    }
+}
