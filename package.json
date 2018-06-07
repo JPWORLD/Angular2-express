@@ -5,7 +5,7 @@
     "scripts": {
         "start": "node app.js"
     },
-    "author":"jprakash4",
+    "author": "jprakash4",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.13.3",
